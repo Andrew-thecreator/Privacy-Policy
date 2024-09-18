@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Free Movies App Privacy Policy">
+    <title>Privacy Policy - Free Movies App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Privacy Policy</h1>
+        <p>Last updated: September 2024</p>
+    </header>
+
+    <section>
+        <h2>Information We Collect</h2>
+        <p>We collect various types of information to provide and improve our service to you.</p>
+
+        <h2>How We Use Your Information</h2>
+        <p>We use the information to operate and maintain the app, improve user experience, and for support purposes.</p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, please contact us at <a href="giannij63@gmail.com">support@freemoviesapp.com</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Free Movies App | <a href="index.html">Home</a></p>
+    </footer>
+</body>
+</html>
